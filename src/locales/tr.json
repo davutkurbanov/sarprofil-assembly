@@ -1,0 +1,74 @@
+{
+  "common": {
+    "start": "Başla",
+    "continue": "Devam Et",
+    "back": "Geri",
+    "done": "Tamam",
+    "next": "İleri",
+    "help": "Yardım Gerek",
+    "cancel": "İptal",
+    "confirm": "Onayla",
+    "close": "Kapat"
+  },
+  "home": {
+    "title": "Sarmobi Montaj Demosu",
+    "subtitle": "AI destekli mobilya montaj asistanınız",
+    "startButton": "Montaja Başla",
+    "voiceMode": "Ses Modu",
+    "listening": "Dinliyor...",
+    "demoNote": "Bu sahte verilerle bir demo uygulamasıdır"
+  },
+  "identify": {
+    "title": "Ürününüzü Tanımlayın",
+    "scanQR": "QR Kod Tara",
+    "enterModel": "Model Numarası Gir",
+    "takePhoto": "Fotoğraf Çek (BETA)",
+    "scanButton": "Tara",
+    "modelPlaceholder": "Model yazın...",
+    "modelSuggestion": "Sarmobi Dolap",
+    "uploadPhoto": "Fotoğraf Yükle",
+    "foundProduct": "Harika, ürününüzü buldum"
+  },
+  "overview": {
+    "title": "Ürün Özeti",
+    "downloadManual": "Montaj kılavuzunu al",
+    "requiredTools": "Gerekli araçlar",
+    "estimatedTime": "Tahmini süre",
+    "complexity": "Zorluk",
+    "peopleNeeded": "Gerekli kişi",
+    "startAssembly": "Montaja Başla",
+    "openChatbot": "Sohbeti Aç",
+    "careTips": "Bakım ve temizlik ipuçları",
+    "replacementParts": "Yedek parça siparişi ver"
+  },
+  "guide": {
+    "stepOf": "Adım {{current}} / {{total}}",
+    "tabs": {
+      "image": "Resim",
+      "video": "Video",
+      "3d": "3D"
+    },
+    "explodedView": "Patlatılmış Görünüm",
+    "uploadPhoto": "Fotoğraf yükle (BETA)",
+    "aiAssistant": "AI Asistanı",
+    "escalateHuman": "İnsana yönlendir",
+    "looksGood": "Güzel görünüyor!",
+    "checkOrientation": "Panel yönünü kontrol et"
+  },
+  "complete": {
+    "title": "Montaj Tamamlandı!",
+    "congratulations": "Tebrikler! Sarmobi Dolabınızı başarıyla monte ettiniz.",
+    "careTips": "Bakım ve Temizlik İpuçları",
+    "replacementParts": "Yedek Parçalar",
+    "recommendedProducts": "Önerilen Ürünler",
+    "downloadSummary": "Montaj Özetini İndir"
+  },
+  "chatbot": {
+    "welcome": "Hangi adımda olduğunuzu söyleyin veya bir fotoğraf yükleyin.",
+    "progress": "{{total}} adımın {{step}}. adımındasınız.",
+    "stillStuck": "Hala takıldınız mı?",
+    "watchVideo": "Kısa videoyu izle",
+    "showCloseup": "Yakın çekim resmi göster",
+    "escalateSupport": "Desteğe yönlendir"
+  }
+}

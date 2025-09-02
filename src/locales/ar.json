@@ -1,0 +1,32 @@
+{
+  "common": {
+    "start": "ابدأ",
+    "continue": "متابعة",
+    "back": "رجوع",
+    "done": "تم",
+    "next": "التالي",
+    "help": "أحتاج مساعدة",
+    "cancel": "إلغاء",
+    "confirm": "تأكيد",
+    "close": "إغلاق"
+  },
+  "home": {
+    "title": "عرض تجميع سارموبي",
+    "subtitle": "مساعد تجميع الأثاث المدعوم بالذكاء الاصطناعي",
+    "startButton": "بدء التجميع",
+    "voiceMode": "وضع الصوت",
+    "listening": "يستمع...",
+    "demoNote": "هذا تطبيق تجريبي ببيانات وهمية"
+  },
+  "identify": {
+    "title": "تحديد منتجك",
+    "scanQR": "مسح رمز QR",
+    "enterModel": "إدخال رقم الطراز",
+    "takePhoto": "التقاط صورة (تجريبي)",
+    "scanButton": "مسح",
+    "modelPlaceholder": "اكتب الطراز...",
+    "modelSuggestion": "خزانة سارموبي",
+    "uploadPhoto": "رفع صورة",
+    "foundProduct": "رائع، وجدت منتجك"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "common": {
+    "start": "Start",
+    "continue": "Continue",
+    "back": "Back",
+    "done": "Done",
+    "next": "Next",
+    "help": "Need Help",
+    "cancel": "Cancel",
+    "confirm": "Confirm",
+    "close": "Close"
+  },
+  "home": {
+    "title": "Sarmobi Assembly Demo",
+    "subtitle": "Your AI-powered furniture assembly assistant",
+    "startButton": "Start Assembly",
+    "voiceMode": "Voice Mode",
+    "listening": "Listening...",
+    "demoNote": "This is a demonstration app with mock data"
+  },
+  "identify": {
+    "title": "Identify Your Product",
+    "scanQR": "Scan QR Code",
+    "enterModel": "Enter Model Number",
+    "takePhoto": "Take Photo (BETA)",
+    "scanButton": "Scan",
+    "modelPlaceholder": "Type model...",
+    "modelSuggestion": "Sarmobi Closet",
+    "uploadPhoto": "Upload Photo",
+    "foundProduct": "Great, I found your product"
+  },
+  "overview": {
+    "title": "Product Overview",
+    "downloadManual": "Receive assembly manual",
+    "requiredTools": "Required tools",
+    "estimatedTime": "Estimated time",
+    "complexity": "Complexity",
+    "peopleNeeded": "People needed",
+    "startAssembly": "Start Assembly",
+    "openChatbot": "Open Chatbot",
+    "careTips": "Care & cleaning tips",
+    "replacementParts": "Order replacement parts"
+  },
+  "guide": {
+    "stepOf": "Step {{current}} of {{total}}",
+    "tabs": {
+      "image": "Image",
+      "video": "Video",
+      "3d": "3D"
+    },
+    "explodedView": "Exploded View",
+    "uploadPhoto": "Upload photo (BETA)",
+    "aiAssistant": "AI Assistant",
+    "escalateHuman": "Escalate to human",
+    "looksGood": "Looks good!",
+    "checkOrientation": "Check panel orientation"
+  },
+  "complete": {
+    "title": "Assembly Complete!",
+    "congratulations": "Congratulations! You've successfully assembled your Sarmobi Closet.",
+    "careTips": "Care & Cleaning Tips",
+    "replacementParts": "Replacement Parts",
+    "recommendedProducts": "Recommended Products",
+    "downloadSummary": "Download Assembly Summary"
+  },
+  "chatbot": {
+    "welcome": "Tell me which step you're on or upload a photo.",
+    "progress": "You're on Step {{step}} of {{total}}.",
+    "stillStuck": "Still stuck?",
+    "watchVideo": "Watch short video",
+    "showCloseup": "Show close-up image",
+    "escalateSupport": "Escalate to support"
+  }
+}

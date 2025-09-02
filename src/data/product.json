@@ -1,0 +1,71 @@
+{
+  "id": "SMB-CLST-001",
+  "name": "Sarmobi Closet",
+  "estimatedTimeMin": 45,
+  "complexity": "Medium",
+  "peopleNeeded": 2,
+  "tools": ["Phillips screwdriver", "Allen key", "Rubber mallet"],
+  "manualUrl": "/assets/manuals/sarmobi-closet.pdf",
+  "steps": [
+    {
+      "id": "step-1",
+      "title": "Parçaları Çıkar ve Envanterini Yap",
+      "instruction": "Panelleri ve A, B, C donanım paketlerini yerleştirin. Miktarları doğrulayın.",
+      "image": "/assets/images/closet/step1.png",
+      "video": "/assets/videos/closet/step1.mp4",
+      "threeD": { "highlight": ["shelves", "rails"], "exploded": true },
+      "tips": ["#4 vidalarını ayrı bir tepsiye koyun.", "Yüzeyleri yumuşak bir bezle koruyun."]
+    },
+    {
+      "id": "step-2",
+      "title": "Tabanı Sol Panel ile Birleştir",
+      "instruction": "Sol paneli tabana 4 adet #4 vida (A paketi) ile takın. Sıkıca sıkın.",
+      "image": "/assets/images/closet/step2.png",
+      "video": "/assets/videos/closet/step2.mp4",
+      "threeD": { "highlight": ["doors", "strap"], "exploded": false },
+      "tips": ["Biten kenarın öne bakmasını sağlayın."]
+    },
+    {
+      "id": "step-3",
+      "title": "Sağ Paneli Takın",
+      "instruction": "Dübelleri ve kam kilitlerini hizalayın; sağ paneli tabana 4 adet #4 vida ile takın.",
+      "image": "/assets/images/closet/step3.png",
+      "video": "/assets/videos/closet/step3.mp4",
+      "threeD": { "highlight": ["base", "rightPanel"], "exploded": false },
+      "tips": ["Kam okları deliklere bakmalı.", "Aşırı sıkmayın."]
+    },
+    {
+      "id": "step-4",
+      "title": "Rafları ve Rayları Takın (Zor Kısım)",
+      "instruction": "Raf pimlerini takın; rafları kaydırın; çekmece raylarını yan panellere monte edin.",
+      "image": "/assets/images/closet/step4.png",
+      "video": "/assets/videos/closet/step4-short.mp4",
+      "threeD": { "highlight": ["base", "leftPanel", "rightPanel"], "exploded": true },
+      "tips": ["Raylar L/R olarak etiketlenmiştir.", "Ön yüz panelle hizalı olmalı."]
+    },
+    {
+      "id": "step-5",
+      "title": "Kapıları ve Devrilme Önleyici Kayışı Takın",
+      "instruction": "Kapıları menteşelere asın; ayarlayın; devrilme önleyici kayışı duvara monte edin. İki kişi önerilir.",
+      "image": "/assets/images/closet/step5.png",
+      "video": "/assets/videos/closet/step5.mp4",
+      "threeD": { "highlight": ["base", "leftPanel"], "exploded": false },
+      "safety": ["İki kişiyle kaldırılması önerilir.", "Devrilme önleyici kayışı talimatlara göre sabitleyin."]
+    }
+  ],
+  "careTips": [
+    "Wipe with a damp cloth; avoid harsh chemicals.",
+    "Check hinge screws every 6 months.",
+    "Keep away from prolonged moisture."
+  ],
+  "replacementParts": [
+    { "sku": "SCREW-4", "name": "Screw #4 (x10)" },
+    { "sku": "HINGE-STD", "name": "Standard door hinge" },
+    { "sku": "RAIL-DRW-L", "name": "Left drawer rail" },
+    { "sku": "RAIL-DRW-R", "name": "Right drawer rail" }
+  ],
+  "upsell": [
+    { "id": "SMB-COMMODE-002", "name": "Sarmobi Commode", "image": "/assets/images/upsell/commode.png" },
+    { "id": "SMB-TVUNIT-003", "name": "Sarmobi TV Unit", "image": "/assets/images/upsell/tvunit.png" }
+  ]
+}

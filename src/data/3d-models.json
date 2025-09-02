@@ -1,0 +1,69 @@
+{
+  "closet": {
+    "id": "sarmobi-closet-001",
+    "name": "Sarmobi Modern Closet",
+    "modelUrl": "/models/closet.glb",
+    "parts": [
+      {
+        "id": "back-panel",
+        "name": "Back Panel",
+        "color": "#8B4513",
+        "position": [0, 0, -0.5],
+        "visible": true
+      },
+      {
+        "id": "side-panels",
+        "name": "Side Panels",
+        "color": "#A0522D",
+        "position": [0, 0, 0],
+        "visible": true
+      },
+      {
+        "id": "shelves",
+        "name": "Shelves",
+        "color": "#CD853F",
+        "position": [0, 0, 0.2],
+        "visible": true
+      },
+      {
+        "id": "doors",
+        "name": "Doors",
+        "color": "#DEB887",
+        "position": [0, 0, 0.5],
+        "visible": true
+      },
+      {
+        "id": "handles",
+        "name": "Door Handles",
+        "color": "#C0C0C0",
+        "position": [0.4, 0, 0.51],
+        "visible": true
+      },
+      {
+        "id": "hanging-rod",
+        "name": "Hanging Rod",
+        "color": "#C0C0C0",
+        "position": [0, 0.8, 0.2],
+        "visible": true
+      }
+    ],
+    "animations": {
+      "exploded": {
+        "back-panel": [0, 0, -1.5],
+        "side-panels": [1.5, 0, 0],
+        "shelves": [0, -1, 0.2],
+        "doors": [0, 0, 1.5],
+        "handles": [0.4, 0, 2],
+        "hanging-rod": [0, 1.5, 0.2]
+      },
+      "assembled": {
+        "back-panel": [0, 0, -0.5],
+        "side-panels": [0, 0, 0],
+        "shelves": [0, 0, 0.2],
+        "doors": [0, 0, 0.5],
+        "handles": [0.4, 0, 0.51],
+        "hanging-rod": [0, 0.8, 0.2]
+      }
+    }
+  }
+}

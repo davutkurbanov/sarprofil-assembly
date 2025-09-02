@@ -1,0 +1,32 @@
+{
+  "common": {
+    "start": "Начать",
+    "continue": "Продолжить",
+    "back": "Назад",
+    "done": "Готово",
+    "next": "Далее",
+    "help": "Нужна помощь",
+    "cancel": "Отмена",
+    "confirm": "Подтвердить",
+    "close": "Закрыть"
+  },
+  "home": {
+    "title": "Демо сборки Sarmobi",
+    "subtitle": "Ваш ИИ-помощник по сборке мебели",
+    "startButton": "Начать сборку",
+    "voiceMode": "Голосовой режим",
+    "listening": "Слушаю...",
+    "demoNote": "Это демо-приложение с тестовыми данными"
+  },
+  "identify": {
+    "title": "Определите ваш продукт",
+    "scanQR": "Сканировать QR-код",
+    "enterModel": "Ввести номер модели",
+    "takePhoto": "Сделать фото (БЕТА)",
+    "scanButton": "Сканировать",
+    "modelPlaceholder": "Введите модель...",
+    "modelSuggestion": "Шкаф Sarmobi",
+    "uploadPhoto": "Загрузить фото",
+    "foundProduct": "Отлично, я нашел ваш продукт"
+  }
+}
